@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/14db91a4-1108-4cbd-b3d9-ff59dda0a97d
 
 ## Drive link: 
 
-https://drive.google.com/file/d/11n9b1PgnrjB6VTAehWVkajjh7PTR_xxO/view?usp=drivesdk
+[https://drive.google.com/file/d/11n9b1PgnrjB6VTAehWVkajjh7PTR_xxO/view?usp=drivesdk](https://drive.google.com/file/d/1WA0le5RZvU_Xpza5Ij0FK4Yr-OygQbps/view?usp=sharing)
 
 **Prompt 2 (Detailed):**
      "In a mesmerizing scene, a girl with ethereal, flowing white hair plays a violin adorned with a shimmering, starry pattern, perfectly harmonizing with the enchanting ambiance around her. Dressed in a gown that seamlessly merges with the deep, starry night sky, she is surrounded by countless twinkling stars and celestial bodies that seem to dance in response to her music. The overall atmosphere radiates tranquility and dreaminess, as the celestial backdrop complements her ethereal presence in this enchanting moment."
@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/893265af-ec43-4c8a-a773-b3dc670fbafd
 
 ## Drive link: 
 
-https://drive.google.com/file/d/11jX80vFyclCV0m46nAUjlNe7hD22ps55/view?usp=drivesdk
+[https://drive.google.com/file/d/11jX80vFyclCV0m46nAUjlNe7hD22ps55/view?usp=drivesdk](https://drive.google.com/file/d/1Re-RSXxE1eDv8ACUfH8yZm_g-Ogorodl/view?usp=sharing)
 
 
 ### **Conclusion:**
