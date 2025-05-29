@@ -31,6 +31,14 @@ To explore and understand the various prompting techniques used for generating v
 Birds soar gracefully across the clear blue sky, casting fleeting shadows on the ground below.
 A joyful dog runs alongside, weaving playfully through the grass with its tongue out and tail wagging."
 # OUTPUT:
+
+
+
+https://github.com/user-attachments/assets/953c3d5c-82dc-4240-803d-69b0ec5dcb42
+
+
+
+
 # Drive Link
 (https://drive.google.com/file/d/1w2wx0Bjvce35l9gMdsaz87IUulc2hfnj/view?usp=sharing)
 
@@ -39,6 +47,12 @@ A joyful dog runs alongside, weaving playfully through the grass with its tongue
 Gentle waves roll onto the sandy shore, catching the fading light as reflections shimmer across the water.
 The camera gradually zooms out from the beach, revealing the vast seascape and the tranquil transition from day to dusk."`
 # OUTPUT:
+
+
+https://github.com/user-attachments/assets/8ed4b3b7-ce0f-44f7-ae5c-799b0ef8f38a
+
+
+
 # Drive Link
 (https://drive.google.com/file/d/1LraC6ylOVCaDFiC-eA0NFq2T8kDvWip7/view?usp=sharing)
 
@@ -48,6 +62,12 @@ The camera gradually zooms out from the beach, revealing the vast seascape and t
 Reflections ripple across the rain-soaked streets, mirroring towering skyscrapers and glowing billboards.
 The scene intensifies into a high-speed chase, with sharp turns, screeching tires, and pulsating synth music heightening the adrenaline."`
 # OUTPUT:
+
+
+https://github.com/user-attachments/assets/7052cf96-0ebd-48b9-8113-f3533b7e088c
+
+
+
 # Drive Link
 (https://drive.google.com/file/d/1zbBItsuYpeF_IUHOTAtAKrdOMTShFpCP/view?usp=sharing)
 
