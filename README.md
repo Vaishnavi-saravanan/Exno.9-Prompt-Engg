@@ -30,7 +30,7 @@ To explore and understand the various prompting techniques used for generating v
    - Example Prompt: `"A person in a vibrant red jacket strolls down a sunlit park path, surrounded by blooming trees and golden light.
 Birds soar gracefully across the clear blue sky, casting fleeting shadows on the ground below.
 A joyful dog runs alongside, weaving playfully through the grass with its tongue out and tail wagging."
-
+# OUTPUT:
 # Drive Link
 (https://drive.google.com/file/d/1w2wx0Bjvce35l9gMdsaz87IUulc2hfnj/view?usp=sharing)
 
@@ -38,16 +38,18 @@ A joyful dog runs alongside, weaving playfully through the grass with its tongue
    - Example Prompt: `"A mesmerizing time-lapse of the sun dipping below the ocean horizon, painting the sky in shades of orange, pink, and violet.
 Gentle waves roll onto the sandy shore, catching the fading light as reflections shimmer across the water.
 The camera gradually zooms out from the beach, revealing the vast seascape and the tranquil transition from day to dusk."`
-
-[Click here to access generated video samples on Google Drive](https://drive.google.com/file/d/1LraC6ylOVCaDFiC-eA0NFq2T8kDvWip7/view?usp=sharing)
+# OUTPUT:
+# Drive Link
+(https://drive.google.com/file/d/1LraC6ylOVCaDFiC-eA0NFq2T8kDvWip7/view?usp=sharing)
 
 5. **Iterate and Refine Prompts**
    - Initial Prompt: `"A car racing through a city at night."`
    - Refined Prompt: `"A sleek car races through a neon-drenched cityscape at night, lights streaking across its polished surface in a blur of motion.
 Reflections ripple across the rain-soaked streets, mirroring towering skyscrapers and glowing billboards.
 The scene intensifies into a high-speed chase, with sharp turns, screeching tires, and pulsating synth music heightening the adrenaline."`
-
-[Click here to access generated video samples on Google Drive](https://drive.google.com/file/d/1zbBItsuYpeF_IUHOTAtAKrdOMTShFpCP/view?usp=sharing)
+# OUTPUT:
+# Drive Link
+(https://drive.google.com/file/d/1zbBItsuYpeF_IUHOTAtAKrdOMTShFpCP/view?usp=sharing)
 
 6. **Generate Multiple Variations**
    - Created versions with varying:
@@ -62,25 +64,10 @@ The scene intensifies into a high-speed chase, with sharp turns, screeching tire
      - Tone
      - Detail
 
----
 
 ## Result
 
 The experiment was successfully executed. It was observed that detailed, structured, and context-rich prompts significantly improved the realism, aesthetic quality, and expressive capacity of AI-generated videos.
 
----
-
-## Tools Used
-
-- Runway Gen-2  
-- Synthesia  
-- Pictory  
-- DeepBrain  
-
----
-
-## Conclusion
-
-Prompt engineering is crucial for guiding AI video generation systems. Careful crafting and iterative refinement of prompts lead to high-quality, meaningful video content aligned with user intent.
 
 
