@@ -4,13 +4,10 @@
 **Course:** PE  
 **Experiment Title:** Exploring Prompting Techniques for AI Video Generation
 
----
-
 ## Aim
 
 To explore and understand the various prompting techniques used for generating videos using AI-powered video generation models and platforms.
 
----
 
 ## Algorithm / Procedure
 
@@ -34,7 +31,8 @@ To explore and understand the various prompting techniques used for generating v
 Birds soar gracefully across the clear blue sky, casting fleeting shadows on the ground below.
 A joyful dog runs alongside, weaving playfully through the grass with its tongue out and tail wagging."
 
-[Click here to access generated video samples on Google Drive](https://drive.google.com/file/d/1w2wx0Bjvce35l9gMdsaz87IUulc2hfnj/view?usp=sharing)
+# Drive Link
+(https://drive.google.com/file/d/1w2wx0Bjvce35l9gMdsaz87IUulc2hfnj/view?usp=sharing)
 
 4. **Add Time and Motion Elements**
    - Example Prompt: `"A mesmerizing time-lapse of the sun dipping below the ocean horizon, painting the sky in shades of orange, pink, and violet.
