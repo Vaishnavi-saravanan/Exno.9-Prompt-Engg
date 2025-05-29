@@ -1,103 +1,88 @@
-# Ex. No. 9: Exploration of Prompting Techniques for Video Generation
+# Experiment No. 9 – Prompt Engineering
 
-## Date: 21/05/2025
-
-## Reg. No.:212222230165
-
-## Name: VAISHNAVI S
+**Register No.:** 212222230165  
+**Course:** PE  
+**Experiment Title:** Exploring Prompting Techniques for AI Video Generation
 
 ---
 
-## Aim:
+## Aim
 
-To explore and understand various prompting techniques used for generating and manipulating video content using AI models such as Runway Gen-2, Make-A-Video, and Imagen Video. The objective is to identify how different types of prompts (simple, detailed, stylistic, hybrid, iterative) impact the style, coherence, and quality of the generated videos.
-
----
-
-## Procedure:
-
-1. **Familiarization with AI Tools for Video Generation:**
-
-   * **Runway Gen-2:** Converts text and images into dynamic videos; suitable for simple, quick results.
-   * **Meta’s Make-A-Video:** Known for imaginative sequences and artistic interpretations.
-   * **Google’s Imagen Video:** Generates high-resolution, detailed videos with excellent temporal and spatial coherence.
-
-2. **Create a Simple Prompt:**
-
-   A short and direct description to generate a basic scene.
-
-   * **Prompt 1 (Simple):**
-     *"A heartwarming scene unfolds as a young girl with long, flowing hair enjoys a moment of tranquility on a wooden swing hanging from the sturdy branches of an ancient oak tree. The setting is captured in a wide shot, showcasing the peaceful meadow bathed in the golden hues of the setting sun."*
-
-   This prompt was used in Runway Gen-2 and Make-A-Video to observe basic animation, environment understanding, and subject motion.
-
-3. **Create a Detailed Prompt:**
-
-   A descriptive prompt with more context, action, and setting.
-
-   * **Prompt 2 (Detailed):**
-     *"In a mesmerizing scene, a girl with ethereal, flowing white hair plays a violin adorned with a shimmering, starry pattern, perfectly harmonizing with the enchanting ambiance around her. Dressed in a gown that seamlessly merges with the deep, starry night sky, she is surrounded by countless twinkling stars and celestial bodies that seem to dance in response to her music. The overall atmosphere radiates tranquility and dreaminess, as the celestial backdrop complements her ethereal presence in this enchanting moment."*
-
-   This prompt was run in Imagen Video and Make-A-Video to assess how well the model handles detailed instructions and renders natural scenery with realistic motion.
-
-4. **Observation and Comparison:**
-
-   * The **simple prompt** resulted in a short, general video with minimal background detail but correct subject behavior.
-   * The **detailed prompt** produced a more visually rich scene with improved object placement, natural lighting, and coherent motion.
-   * Imagen Video demonstrated better realism and clarity, whereas Make-A-Video showed creative animation with artistic color grading.
+To explore and understand the various prompting techniques used for generating videos using AI-powered video generation models and platforms.
 
 ---
 
-### **Prompting Techniques Overview:**
+## Algorithm / Procedure
 
-| Prompt Type     | Description                     | Tool Effectiveness                                  |
-| --------------- | ------------------------------- | --------------------------------------------------- |
-| Simple Prompt   | Short, direct descriptions      | Gen-2 (basic visuals), Make-A-Video (creative)      |
-| Detailed Prompt | Richly descriptive with context | Imagen (high detail), Make-A-Video (creative depth) |
+1. **Familiarize with AI Video Generation Models**
+   - Explored and studied popular AI-based video generation tools:
+     - **Runway Gen-2** – Realistic videos from text prompts.
+     - **Synthesia** – AI avatar and presenter-based generation.
+     - **Pictory** – Summarizes long-form content into short videos.
+     - **DeepBrain** – Corporate-style AI avatar videos.
+   - Analyzed each tool for:
+     - Video quality
+     - Duration
+     - Realism
+     - Customization capabilities
+
+2. **Create Simple Prompts for Initial Video Generation**
+   - Example Prompt: `"A person walking in a park."`
+
+3. **Use Detailed Prompts for Enhanced Visual Quality**
+   - Example Prompt: `"A person in a vibrant red jacket strolls down a sunlit park path, surrounded by blooming trees and golden light.
+Birds soar gracefully across the clear blue sky, casting fleeting shadows on the ground below.
+A joyful dog runs alongside, weaving playfully through the grass with its tongue out and tail wagging."
+
+[Click here to access generated video samples on Google Drive](https://drive.google.com/file/d/1w2wx0Bjvce35l9gMdsaz87IUulc2hfnj/view?usp=sharing)
+
+4. **Add Time and Motion Elements**
+   - Example Prompt: `"A mesmerizing time-lapse of the sun dipping below the ocean horizon, painting the sky in shades of orange, pink, and violet.
+Gentle waves roll onto the sandy shore, catching the fading light as reflections shimmer across the water.
+The camera gradually zooms out from the beach, revealing the vast seascape and the tranquil transition from day to dusk."`
+
+[Click here to access generated video samples on Google Drive](https://drive.google.com/file/d/1LraC6ylOVCaDFiC-eA0NFq2T8kDvWip7/view?usp=sharing)
+
+5. **Iterate and Refine Prompts**
+   - Initial Prompt: `"A car racing through a city at night."`
+   - Refined Prompt: `"A sleek car races through a neon-drenched cityscape at night, lights streaking across its polished surface in a blur of motion.
+Reflections ripple across the rain-soaked streets, mirroring towering skyscrapers and glowing billboards.
+The scene intensifies into a high-speed chase, with sharp turns, screeching tires, and pulsating synth music heightening the adrenaline."`
+
+[Click here to access generated video samples on Google Drive](https://drive.google.com/file/d/1zbBItsuYpeF_IUHOTAtAKrdOMTShFpCP/view?usp=sharing)
+
+6. **Generate Multiple Variations**
+   - Created versions with varying:
+     - Camera angles
+     - Weather conditions
+     - Character clothing
+
+7. **Save and Compare Outputs**
+   - Saved each generated video
+   - Compared effects of prompt:
+     - Structure
+     - Tone
+     - Detail
 
 ---
 
-### **Optimization Strategies:**
+## Result
 
-* Use vivid and descriptive language for more coherent visuals.
-* Choose the AI tool based on the desired output style (realistic vs. artistic).
-* Observe differences between brief vs. richly descriptive inputs.
-* Iterate based on model output to fine-tune prompt structure and wording.
+The experiment was successfully executed. It was observed that detailed, structured, and context-rich prompts significantly improved the realism, aesthetic quality, and expressive capacity of AI-generated videos.
 
 ---
 
-### **Output:**
+## Tools Used
 
-**Prompt 1 (Simple):**
-     "A heartwarming scene unfolds as a young girl with long, flowing hair enjoys a moment of tranquility on a wooden swing hanging from the sturdy branches of an ancient oak tree. The setting is captured in a wide shot, showcasing the peaceful meadow bathed in the golden hues of the setting sun."
-
-## Output:
-
-https://github.com/user-attachments/assets/14db91a4-1108-4cbd-b3d9-ff59dda0a97d
-
-## Drive link: 
-
-[https://drive.google.com/file/d/11n9b1PgnrjB6VTAehWVkajjh7PTR_xxO/view?usp=drivesdk](https://drive.google.com/file/d/1WA0le5RZvU_Xpza5Ij0FK4Yr-OygQbps/view?usp=sharing)
-
-**Prompt 2 (Detailed):**
-     "In a mesmerizing scene, a girl with ethereal, flowing white hair plays a violin adorned with a shimmering, starry pattern, perfectly harmonizing with the enchanting ambiance around her. Dressed in a gown that seamlessly merges with the deep, starry night sky, she is surrounded by countless twinkling stars and celestial bodies that seem to dance in response to her music. The overall atmosphere radiates tranquility and dreaminess, as the celestial backdrop complements her ethereal presence in this enchanting moment."
-     
-## Output:
-
-https://github.com/user-attachments/assets/893265af-ec43-4c8a-a773-b3dc670fbafd
-
-## Drive link: 
-
-[https://drive.google.com/file/d/11jX80vFyclCV0m46nAUjlNe7hD22ps55/view?usp=drivesdk](https://drive.google.com/file/d/1Re-RSXxE1eDv8ACUfH8yZm_g-Ogorodl/view?usp=sharing)
-
-
-### **Conclusion:**
-
-The experiment successfully demonstrated that structured prompting plays a crucial role in the quality and style of AI-generated videos. The simple prompt generated basic but accurate visuals, while the detailed prompt significantly enhanced realism, environment quality, and motion coherence. Tools like Imagen Video and Make-A-Video showed strong performance when aligned with their strengths.
+- Runway Gen-2  
+- Synthesia  
+- Pictory  
+- DeepBrain  
 
 ---
 
-### **Result:**
+## Conclusion
 
-Thus, the experiment effectively explored the difference between simple and detailed prompting techniques. It confirmed that prompt specificity directly influences the quality, coherence, and creativity of AI-generated video content.
+Prompt engineering is crucial for guiding AI video generation systems. Careful crafting and iterative refinement of prompts lead to high-quality, meaningful video content aligned with user intent.
+
 
